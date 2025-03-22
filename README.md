@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ### 3️⃣ Train the model (Optional if pre-trained model exists):
 
 ```bash
-python train_model.py
+python fake_news.py
 ```
 
 ### 4️⃣ Run the Streamlit application:
